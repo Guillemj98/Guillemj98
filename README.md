@@ -30,16 +30,19 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de las siguiente
 - **LinkedIn**: [https://www.linkedin.com/in/guillermo-magro]
 
 ## 📊 Estadísticas de GitHub
-### Actividad en GitHub 
+<hr/>
 
-| Estadística                 | Valor                                      |
-| --------------------------- | ------------------------------------------ |
-| **Total Stars Earned**       | ![Total Stars](https://github-readme-stats.vercel.app/api?username=Guillemj98&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical) |
-| **Total Commits**            | ![Commits](https://github-readme-stats.vercel.app/api?username=Guillemj98&count_private=true&hide=prs&show_icons=true&hide_title=true&theme=radical&custom_title=Total%20Commits) |
-| **Contributions last year**  | ![Contribs](https://github-readme-streak-stats.herokuapp.com/?user=Guillemj98&theme=radical) |
+Linkedin : <https://es.linkedin.com/in/felix-de-pablo-lobo>
 
-### Lenguajes más utilizados 
+<hr/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillemj98&layout=compact&theme=radical)
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Guillemj98&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillemj98&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Guillemj98&theme=merko&hide_border=true&background=FFFFFF00">
+</p>
+<!-- https://github.com/anuraghazra/github-readme-stats#github-readme-stats -->
+
+<hr/>
 
 
