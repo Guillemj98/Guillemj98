@@ -30,7 +30,7 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de las siguiente
 - **LinkedIn**: [https://www.linkedin.com/in/guillermo-magro]
 
 ## 📊 Estadísticas de GitHub
-### Actividad en GitHub (izquierda)
+### Actividad en GitHub 
 
 | Estadística                 | Valor                                      |
 | --------------------------- | ------------------------------------------ |
@@ -38,7 +38,7 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de las siguiente
 | **Total Commits**            | ![Commits](https://github-readme-stats.vercel.app/api?username=Guillemj98&count_private=true&hide=prs&show_icons=true&hide_title=true&theme=radical&custom_title=Total%20Commits) |
 | **Contributions last year**  | ![Contribs](https://github-readme-streak-stats.herokuapp.com/?user=Guillemj98&theme=radical) |
 
-### Lenguajes más utilizados (derecha)
+### Lenguajes más utilizados 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillemj98&layout=compact&theme=radical)
 
