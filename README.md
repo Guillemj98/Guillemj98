@@ -32,7 +32,6 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de las siguiente
 ## 📊 Estadísticas de GitHub
 <hr/>
 
-Linkedin : <https://es.linkedin.com/in/felix-de-pablo-lobo>
 
 <hr/>
 
